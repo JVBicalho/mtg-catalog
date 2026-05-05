@@ -1,0 +1,10448 @@
+{
+  "Exalted Angel": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Angel"
+  },
+  "Temple of the False God": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Kraul Stinger": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Assassin"
+  },
+  "Ajani, the Greathearted": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Legendary Planeswalker — Ajani"
+  },
+  "Samut's Sprint": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Shriekdiver": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Bird Warrior"
+  },
+  "Grim Initiate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Zombie Warrior"
+  },
+  "Jaya, Venerated Firemage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Planeswalker — Jaya"
+  },
+  "Chandra's Pyrohelix": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Tibalt, Rakish Instigator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Planeswalker — Tibalt"
+  },
+  "Chandra's Triumph": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "The Fall of Kroog": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Cradle Clearcutter": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact Creature — Golem"
+  },
+  "Lat-Nam Adept": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Over the Top": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Raze to the Ground": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Roc Hunter": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Sardian Cliffstomper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Minotaur Barbarian"
+  },
+  "Wing Commando": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Mishra's Command": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Epic Confrontation": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Gruesome Realization": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Scrapwork Cohort": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact Creature — Soldier"
+  },
+  "Corrupt": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Scrapwork Rager": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact Creature — Phyrexian Horror"
+  },
+  "Mishra's Domination": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Swiftgear Drake": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Drake"
+  },
+  "Fallaji Excavation": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Meticulous Excavation": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Trench Stalker": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Beast Horror"
+  },
+  "Pyrrhic Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Flow of Knowledge": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Dredging Claw": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Goblin Blast-Runner": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Rust Goliath": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Whirling Strike": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Tomakul Honor Guard": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Mechanized Warfare": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Combat Courier": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Moment of Defiance": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Hostile Negotiations": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Tower Worker": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Assembly-Worker"
+  },
+  "Great Desert Prospector": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Terisian Mindbreaker": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Juggernaut"
+  },
+  "Sibling Rivalry": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Evolving Wilds": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Reconstructed Thopter": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Thopter"
+  },
+  "Union of the Third Path": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Phalanx Vanguard": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Liquimetal Coating": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Neurok Stealthsuit": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Bravado": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Fiery Mantle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Improvised Weaponry": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Boots of Speed": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Meteor Swarm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Battle Cry Goblin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Burning Hands": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Orcus, Prince of Undeath": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Demon"
+  },
+  "Price of Loyalty": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "You See a Pair of Goblins": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Hulking Bugbear": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Beastrider Vanguard": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Knight"
+  },
+  "Jungle Hollow": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Land"
+  },
+  "Count on Luck": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Haunt the Network": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Kickoff Celebrations": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Lotusguard Disciple": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bird Cleric"
+  },
+  "Marauding Mako": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Shark Pirate"
+  },
+  "Mendicant Core, Guidelight": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Legendary Artifact Creature — Robot"
+  },
+  "Night Market": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Gearseeker Serpent": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Serpent"
+  },
+  "Skybox Ferry": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Skycrash": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Starting Column": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Streaking Oilgorger": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire"
+  },
+  "Syphon Fuel": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Aethertide Whale": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Whale"
+  },
+  "Reckless Fireweaver": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Confiscation Coup": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Glimmer of Genius": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Soul-Guide Lantern": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Binding Mummy": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Zombie"
+  },
+  "Saheeli, Sublime Artificer": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Planeswalker — Saheeli"
+  },
+  "Dimir Signet": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Artifact"
+  },
+  "Terramorphic Expanse": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Whirler Virtuoso": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Vedalken Artificer"
+  },
+  "Trace of Abundance": {
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Flameblade Adept": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Jackal Warrior"
+  },
+  "Hyena Pack": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Hyena"
+  },
+  "Grim Strider": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Horror"
+  },
+  "Oketra's Attendant": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bird Soldier"
+  },
+  "Zenith Seeker": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Bird Wizard"
+  },
+  "Cartouche of Strength": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment — Aura Cartouche"
+  },
+  "Devoted Crop-Mate": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Ahn-Crop Crasher": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Minotaur Warrior"
+  },
+  "Angler Drake": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Drake"
+  },
+  "Floodwaters": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Tah-Crop Skirmisher": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Snake Warrior"
+  },
+  "Scribe of the Mindful": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Cleric"
+  },
+  "Embalmer's Tools": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Bitterblade Warrior": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Jackal Warrior"
+  },
+  "Dissenter's Deliverance": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Rhet-Crop Spearmaster": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Festering Mummy": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie"
+  },
+  "Decision Paralysis": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "By Force": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Trial of Knowledge": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Anointer Priest": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Cleric"
+  },
+  "Luxa River Shrine": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "River Serpent": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Serpent"
+  },
+  "Tormenting Voice": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Quagmire Druid": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Creature — Zombie Druid"
+  },
+  "Smash": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Turntimber Basilisk": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Basilisk"
+  },
+  "Ancestors' Aid": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Enterprising Scallywag": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Pirate"
+  },
+  "Confounding Riddle": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Daring Discovery": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Fungal Fortitude": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Magmatic Galleon": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Tendril of the Mycotyrant": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Fungus Wizard"
+  },
+  "Dreadmaw's Ire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Glowcap Lantern": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Dire Flail": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact — Equipment // Artifact — Equipment"
+  },
+  "Sunshot Militia": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Forgotten Monument": {
+    "color_identity": [],
+    "type_line": "Land — Cave"
+  },
+  "Deep-Cavern Bat": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Bat"
+  },
+  "The Belligerent": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Artifact — Vehicle"
+  },
+  "Plundering Pirate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Orc Pirate"
+  },
+  "Orazca Puzzle-Door": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact"
+  },
+  "Ancestral Reminiscence": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Tectonic Hazard": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Buried Treasure": {
+    "color_identity": [],
+    "type_line": "Artifact — Treasure"
+  },
+  "Rampaging Ceratops": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dinosaur"
+  },
+  "Thunderherd Migration": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Command Tower": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Undying Evil": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Spawning Breath": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "The Chase Is On": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Case of the Ransacked Lab": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Case"
+  },
+  "Case of the Crimson Pulse": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Case"
+  },
+  "Fugitive Codebreaker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Faerie Snoop": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Creature — Faerie Detective"
+  },
+  "Ill-Timed Explosion": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Break Out": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Felonious Rage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Lightning Helix": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Expedited Inheritance": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Judith, Carnage Connoisseur": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Shaman"
+  },
+  "Kellan, Inquisitive Prodigy": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Faerie Detective // Sorcery — Adventure"
+  },
+  "Krenko, Baron of Tin Street": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin"
+  },
+  "Connecting the Dots": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Crime Novelist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Bard"
+  },
+  "Gearbane Orangutan": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ape"
+  },
+  "Kraul Whipcracker": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Creature — Insect Assassin"
+  },
+  "Demand Answers": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Axebane Ferox": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Melek, Reforged Researcher": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Weird Detective"
+  },
+  "Hostile Desert": {
+    "color_identity": [],
+    "type_line": "Land — Desert"
+  },
+  "Tocasia's Dig Site": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Hornet Queen": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Kalastria Healer": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Cleric Ally"
+  },
+  "Akoum Hellkite": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dragon"
+  },
+  "Kor Entanglers": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Kor Soldier Ally"
+  },
+  "Serpentine Spike": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Tunneling Geopede": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Kor Bladewhirl": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Kor Soldier Ally"
+  },
+  "Murasa Ranger": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Warrior Ranger"
+  },
+  "Goblin War Paint": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Forerunner of Slaughter": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Dampening Pulse": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Breaker of Armies": {
+    "color_identity": [],
+    "type_line": "Creature — Eldrazi"
+  },
+  "Volcanic Upheaval": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Outnumber": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Grove Rumbler": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Cheering Fanatic": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Swarm of Bloodflies": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Magmatic Force": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Pathmaker Initiate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Blaze": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lead by Example": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Hand of Silumgar": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Oracle's Insight": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Borderland Marauder": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Prakhata Club Security": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Aetherborn Warrior"
+  },
+  "Agate Assault": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Alania's Pathmaker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Otter Wizard"
+  },
+  "Bellowing Crier": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Frog Advisor"
+  },
+  "Blacksmith's Talent": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Class"
+  },
+  "Blooming Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Bonebind Orator": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Squirrel Warlock Bard"
+  },
+  "Brave-Kin Duo": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Rabbit Mouse"
+  },
+  "Brazen Collector": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Raccoon Rogue"
+  },
+  "Byway Barterer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Raccoon Rogue"
+  },
+  "Calamitous Tide": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Cindering Cutthroat": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Creature — Lizard Assassin"
+  },
+  "Clifftop Lookout": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Frog Scout"
+  },
+  "Conduct Electricity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Corpseberry Cultivator": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Creature — Squirrel Warlock"
+  },
+  "Curious Forager": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Squirrel Druid"
+  },
+  "Daggerfang Duo": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Rat Squirrel"
+  },
+  "Darkstar Augur": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Bat Warlock"
+  },
+  "Dreamdew Entrancer": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Creature — Frog Wizard"
+  },
+  "Druid of the Spade": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Rabbit Druid"
+  },
+  "Early Winter": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Feather of Flight": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Fecund Greenshell": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elemental Turtle"
+  },
+  "Fell": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Festival of Embers": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Fountainport Bell": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Run Away Together": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Glidedive Duo": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Bat Lizard"
+  },
+  "Gossip's Talent": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Class"
+  },
+  "Harvestrite Host": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Rabbit Citizen"
+  },
+  "Head of the Homestead": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Creature — Rabbit Citizen"
+  },
+  "Heaped Harvest": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact — Food"
+  },
+  "Hearthborn Battler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Lizard Warlock"
+  },
+  "Hidden Grotto": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Honored Dreyleader": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Squirrel Warrior"
+  },
+  "Hop to It": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Jolly Gerbils": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Hamster Citizen"
+  },
+  "Junkblade Bruiser": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Creature — Raccoon Berserker"
+  },
+  "Kindlespark Duo": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Lizard Otter"
+  },
+  "Kitnap": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Lifecreed Duo": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bat Bird"
+  },
+  "Lilysplash Mentor": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Creature — Frog Druid"
+  },
+  "Long River Lurker": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Frog Scout"
+  },
+  "Longstalk Brawl": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lupinflower Village": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Land"
+  },
+  "Might of the Meek": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Mind Spiral": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Moonrise Cleric": {
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "type_line": "Creature — Bat Cleric"
+  },
+  "Mouse Trapper": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Mouse Soldier"
+  },
+  "Nettle Guard": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Mouse Soldier"
+  },
+  "Osteomancer Adept": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Squirrel Warlock"
+  },
+  "Pawpatch Formation": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Pearl of Wisdom": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Peerless Recycling": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Pileated Provisioner": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bird Scout"
+  },
+  "Playful Shove": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Polliwallop": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Quaketusk Boar": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental Boar"
+  },
+  "Rabbit Response": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Rabid Gnaw": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ravine Raider": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Lizard Rogue"
+  },
+  "Shore Up": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Roughshod Duo": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Mouse Raccoon"
+  },
+  "Rust-Shield Rampager": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Raccoon Warrior"
+  },
+  "Ruthless Negotiation": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Sazacap's Brew": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Shrike Force": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bird Knight"
+  },
+  "Skyskipper Duo": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Bird Frog"
+  },
+  "Starseer Mentor": {
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "type_line": "Creature — Bat Warlock"
+  },
+  "Steampath Charger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Lizard Warlock"
+  },
+  "Stickytongue Sentinel": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Frog Warrior"
+  },
+  "Sugar Coat": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Take Out the Trash": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Three Tree Mascot": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Shapeshifter"
+  },
+  "Treeguard Duo": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Frog Rabbit"
+  },
+  "Valley Rotcaller": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Squirrel Warlock"
+  },
+  "Veteran Guardmouse": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Creature — Mouse Soldier"
+  },
+  "War Squeak": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Warren Elder": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Rabbit Cleric"
+  },
+  "Waterspout Warden": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Frog Soldier"
+  },
+  "Wear Down": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Wildfire Howl": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Hedron Archive": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Forgotten Cave": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Grumgully, the Generous": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Shaman"
+  },
+  "Nadier's Nightblade": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Elf Warrior"
+  },
+  "Exotic Orchard": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Psychosis Crawler": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Phyrexian Horror"
+  },
+  "Game Trail": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Akki Lavarunner // Tok-Tok, Volcano Born": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior // Legendary Creature — Goblin Shaman"
+  },
+  "Rend Flesh": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant — Arcane"
+  },
+  "Akki Underminer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue Shaman"
+  },
+  "Cerebral Eruption": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Tunnel Ignus": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Iron Myr": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Myr"
+  },
+  "Kuldotha Rebirth": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lash Out": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Deceiver Exarch": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Phyrexian Cleric"
+  },
+  "Spectral Procession": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Slobad, Goblin Tinkerer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Artificer"
+  },
+  "Emissary of Grudges": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Efreet"
+  },
+  "Genesis Storm": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Maverick Thopterist": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Skyfire Phoenix": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Phoenix"
+  },
+  "Highland Lake": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Heart-Piercer Manticore": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Manticore"
+  },
+  "Hieroglyphic Illumination": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Niv-Mizzet, the Firemind": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Dragon Wizard"
+  },
+  "Tectonic Reformation": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Aerial Responder": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Soldier"
+  },
+  "Wydwen, the Biting Gale": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Faerie Wizard"
+  },
+  "Radiant Performer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Radiant Fountain": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Garruk, Primal Hunter": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Planeswalker — Garruk"
+  },
+  "Swarm Intelligence": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Boros Locket": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Artifact"
+  },
+  "Pia Nalaar": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Artificer"
+  },
+  "Blood Bairn": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire"
+  },
+  "Beetleback Chief": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Bitter Feud": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Trading Post": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Stoneshock Giant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Giant"
+  },
+  "Impact Resonance": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Vivid Crag": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Fall of the Hammer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Dormant Volcano": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Dhund Operative": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Expedite": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Stingerfling Spider": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Spider"
+  },
+  "Fiery Cannonade": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Crow of Dark Tidings": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Bird"
+  },
+  "Goblin Trailblazer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Pirate"
+  },
+  "Peel from Reality": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Rummaging Goblin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Null Caller": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Shaman"
+  },
+  "Amorphous Axe": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Dragon Mantle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Memorial to War": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Ninth Bridge Patrol": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Soldier"
+  },
+  "Wind-Scarred Crag": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Land"
+  },
+  "Wild Ricochet": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Universal Solvent": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Renegade Tactics": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Skywhaler's Shot": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Sifter Wurm": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Wurm"
+  },
+  "Acolyte of Bahamut": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Enchantment — Background"
+  },
+  "Sakura-Tribe Elder": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Snake Shaman"
+  },
+  "Armor of Shadows": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Contact Other Plane": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Bane's Contingency": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Fire Diamond": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact"
+  },
+  "Moss Diamond": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact"
+  },
+  "Poison the Blade": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Erinis, Gloom Stalker": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Creature — Halfling Ranger"
+  },
+  "Sculpted Sunburst": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Tiamat's Fanatics": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dragon Warrior"
+  },
+  "You've Been Caught Stealing": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Wandering Fumarole": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Livaan, Cultist of Tiamat": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Dragon Shaman"
+  },
+  "Lozhan, Dragons' Legacy": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Dragon Shaman"
+  },
+  "Pilgrim's Eye": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Thopter"
+  },
+  "Goggles of Night": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Owlbear Shepherd": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Goblin Druid"
+  },
+  "Cliffgate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land — Gate"
+  },
+  "Izzet Chemister": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Wizard"
+  },
+  "Skanos Dragonheart": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Creature — Dragon Ranger"
+  },
+  "Earth Tremor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Tavern Brawler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Enchantment — Background"
+  },
+  "You Meet in a Tavern": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Sky Diamond": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact"
+  },
+  "Nemesis Phoenix": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Phoenix"
+  },
+  "Renari, Merchant of Marvels": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Legendary Creature — Dragon Artificer"
+  },
+  "Anax, Hardened in the Forge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Enchantment Creature — Demigod"
+  },
+  "Guttersnipe": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Ashling the Pilgrim": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Elemental Shaman"
+  },
+  "Spatial Contortion": {
+    "color_identity": [],
+    "type_line": "Instant"
+  },
+  "Furious Rise": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Explorer's Scope": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Forge of Heroes": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Temur Battle Rage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Impulsive Pilferer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Pirate"
+  },
+  "Spikeshot Goblin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Geode Golem": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Golem"
+  },
+  "Kaho, Minamo Historian": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Wizard"
+  },
+  "Prismatic Lens": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Haunted Cloak": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Melek, Izzet Paragon": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Weird Wizard"
+  },
+  "Makeshift Munitions": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Narset, Enlightened Master": {
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Human Monk"
+  },
+  "Rapacious One": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Fists of Flame": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Deadly Recluse": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Spider"
+  },
+  "Mage-Ring Network": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Supernatural Stamina": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Repeated Reverberation": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Bane of Bala Ged": {
+    "color_identity": [],
+    "type_line": "Creature — Eldrazi"
+  },
+  "Looter il-Kor": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Kor Rogue"
+  },
+  "Squee, Goblin Nabob": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin"
+  },
+  "Subira, Tulzidi Caravanner": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Shaman"
+  },
+  "All That Glitters": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Zada, Hedron Grinder": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Ally"
+  },
+  "Disrupt Decorum": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Wretched Banquet": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Mogg Sentry": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Power of Fire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Animus of Predation": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Avatar"
+  },
+  "Dismiss": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Divination": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lace with Moonglove": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Smuggler Captain": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Pirate"
+  },
+  "Opaline Unicorn": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Unicorn"
+  },
+  "Field of Ruin": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Rampant Growth": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lignify": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Kindred Enchantment — Treefolk Aura"
+  },
+  "Mana Flare": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Leyline of Lightning": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Season of Growth": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Mist-Cloaked Herald": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Merfolk Warrior"
+  },
+  "Daggerback Basilisk": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Basilisk"
+  },
+  "Doublecast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Timber Gorge": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Lightning Strike": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ghirapur Guide": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Scout"
+  },
+  "Goblin Motivator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Naturalize": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Abnormal Endurance": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Trumpet Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Volley Veteran": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Daggersail Aeronaut": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Goblin Assailant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Anticipate": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Canopy Spider": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Spider"
+  },
+  "Reckless Air Strike": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Chandra, Novice Pyromancer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Planeswalker — Chandra"
+  },
+  "Goblin Smuggler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Bone to Ash": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Sedge Scorpion": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Scorpion"
+  },
+  "Faerie Miscreant": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Faerie Rogue"
+  },
+  "Fry": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Ringleader": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Leyline of Combustion": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Leyline of Sanctity": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Bag of Holding": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Goblin Bird-Grabber": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Chandra's Outrage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Chandra's Regulator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Artifact"
+  },
+  "Life Goes On": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Kinetic Augur": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Wall of Runes": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Wall"
+  },
+  "Chandra's Magmutt": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental Dog"
+  },
+  "Garruk's Gorehorn": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Short Sword": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Sure Strike": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Arsonist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Rewind": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Glorious Anthem": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Stun": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Spark Elemental": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Fists of the Anvil": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ruthless Cullblade": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Warrior"
+  },
+  "Tuktuk Scrapper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Artificer Ally"
+  },
+  "Mardu Scout": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Scout"
+  },
+  "Tasigur's Cruelty": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Collateral Damage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Rakshasa's Disdain": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Shockmaw Dragon": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dragon"
+  },
+  "Goblin Heelcutter": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Berserker"
+  },
+  "Cunning Strike": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Dragonrage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Shifting Loyalties": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Map the Wastes": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Scroll of the Masters": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Pyrotechnics": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Sandblast": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Shu Yun, the Silent Tempest": {
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Human Monk"
+  },
+  "Hungering Yeti": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Yeti"
+  },
+  "The First Eruption": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Saga"
+  },
+  "Goblin Barrage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Navigator's Compass": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Goblin Warchief": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Warlord's Fury": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Goblin Chainwhirler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Wild Onslaught": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Vicious Offering": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Sergeant-at-Arms": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Solar Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Festering Goblin": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Goblin"
+  },
+  "Coal Stoker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Mogg War Marshal": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Goblin Matron": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Ornithopter": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Thopter"
+  },
+  "Ovinize": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Man-o'-War": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Jellyfish"
+  },
+  "Skirk Prospector": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Lightning Reflexes": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Haunting Figment": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Illusion"
+  },
+  "Sengir Connoisseur": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire"
+  },
+  "Soaring Drake": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Drake"
+  },
+  "Battlefly Swarm": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Phyrexian Insect"
+  },
+  "Keldon Strike Team": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Ertai's Scorn": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Argivian Phalanx": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Kor Soldier"
+  },
+  "Fires of Victory": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Gaea's Might": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Twinferno": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Flowstone Infusion": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Deathbloom Gardener": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Druid"
+  },
+  "Nishoba Brawler": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Cat Warrior"
+  },
+  "Hammerhand": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Meteorite": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Salvaged Manaworker": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Defiler of Instinct": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Phyrexian Kavu"
+  },
+  "Sunbathing Rootwalla": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Lizard"
+  },
+  "Rulik Mons, Warren Chief": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin"
+  },
+  "Goblin Picker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Jaya's Firenado": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Zar Ojanen, Scion of Efrava": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Cat Warrior"
+  },
+  "Sultai Charm": {
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Thrill of Possibility": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Hazoret's Monument": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact"
+  },
+  "Neheb, Dreadhorde Champion": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Zombie Minotaur Warrior"
+  },
+  "Rosnakht, Heir of Rohgahh": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Kobold Warrior"
+  },
+  "Echoing Truth": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Glint-Sleeve Artisan": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Artificer"
+  },
+  "Adaptive Automaton": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Accomplished Automaton": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Clone Shell": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Shapeshifter"
+  },
+  "Kazuul's Toll Collector": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ogre Warrior"
+  },
+  "Cragganwick Cremator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Giant Shaman"
+  },
+  "Cloudreader Sphinx": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Sphinx"
+  },
+  "Balduvian Rage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Salivating Gremlins": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Gremlin"
+  },
+  "Pyrite Spellbomb": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact"
+  },
+  "Metalspinner's Puzzleknot": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact"
+  },
+  "Cathartic Reunion": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Throne of Geth": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Tuktuk the Explorer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin"
+  },
+  "Mistfire Adept": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Monk"
+  },
+  "Jeskai Charm": {
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Bear's Companion": {
+    "color_identity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Titan's Strength": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Mana Leak": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Sensor Splicer": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Phyrexian Artificer"
+  },
+  "Aven Initiate": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Bird Warrior"
+  },
+  "League Guildmage": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Dark-Dweller Oracle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Pirate's Pillage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Goblin Banneret": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Soldier"
+  },
+  "Graveblade Marauder": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Young Pyromancer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Lightning Berserker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Berserker"
+  },
+  "Learn from the Past": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Herald of Dromoka": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Atarka Pummeler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ogre Warrior"
+  },
+  "Ainok Artillerist": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Dog Archer"
+  },
+  "Qal Sisma Behemoth": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ogre Warrior"
+  },
+  "Circle of Elders": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Shieldhide Dragon": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dragon"
+  },
+  "Artful Maneuver": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Warbringer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Orc Berserker"
+  },
+  "Spidersilk Net": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Magmatic Chasm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Dragon's Eye Sentry": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Monk"
+  },
+  "Scaleguard Sentinels": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Tapestry of the Ages": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Clickslither": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Goblin Burrows": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Goblin Sledder": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Ib Halfheart, Goblin Tactician": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Advisor"
+  },
+  "Gempalm Incinerator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Skirk Drill Sergeant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Shrapnel Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Volt Charge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Mortal's Ardor": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Sealock Monster": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Octopus"
+  },
+  "Claws of Valakut": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Bloodmark Mentor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Reciprocate": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Reprisal": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Tunneler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Battle Squadron": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Goblin Wardriver": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Brute Strength": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Glory Chaser": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Goblin Rabblemaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Foundry Street Denizen": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Tarfire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Kindred Instant — Goblin"
+  },
+  "Triton Tactics": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Inferno Trap": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant — Trap"
+  },
+  "Orcish Cannonade": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Hellraiser Goblin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Berserker"
+  },
+  "All-Fates Scroll": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "All-Fates Stalker": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Drix Assassin"
+  },
+  "Alpharael, Dreaming Acolyte": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Cleric"
+  },
+  "Annul": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Astelli Reclaimer": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Angel Warrior"
+  },
+  "Atmospheric Greenhouse": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact — Spacecraft"
+  },
+  "Beamsaw Prospector": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Virus Beetle": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact Creature — Insect"
+  },
+  "Bioengineered Future": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Biosynthic Burst": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Blooming Stinger": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Plant Scorpion"
+  },
+  "Bombard": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Brightspear Zealot": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Chrome Companion": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Dog"
+  },
+  "Close Encounter": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Cloudsculpt Technician": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Jellyfish Artificer"
+  },
+  "Command Bridge": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Cryogen Relic": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact"
+  },
+  "Cryoshatter": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Dark Endurance": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Decode Transmissions": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Desculpting Blast": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Drill Too Deep": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Drix Fatemaker": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Drix Wizard"
+  },
+  "Elegy Acolyte": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Cleric"
+  },
+  "Embrace Oblivion": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Eumidian Terrabotanist": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Druid"
+  },
+  "Fell Gravship": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact — Spacecraft"
+  },
+  "Flight-Deck Coordinator": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Focus Fire": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Frontline War-Rager": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Kavu Soldier"
+  },
+  "Full Bore": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Gene Pollinator": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact Creature — Robot Insect"
+  },
+  "Genemorph Imago": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Creature — Insect Druid"
+  },
+  "Germinating Wurm": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Plant Wurm"
+  },
+  "Gravkill": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Gravpack Monoist": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Scout"
+  },
+  "Haliya, Ascendant Cadet": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Human Soldier"
+  },
+  "Hemosymbic Mite": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Mite"
+  },
+  "Honor": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Hullcarver": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact Creature — Robot Assassin"
+  },
+  "Hymn of the Faller": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Icecave Crasher": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Illvoi Galeblade": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Jellyfish Warrior"
+  },
+  "Illvoi Infiltrator": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Jellyfish Rogue"
+  },
+  "Illvoi Light Jammer": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Illvoi Operative": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Jellyfish Rogue"
+  },
+  "Insatiable Skittermaw": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect Horror"
+  },
+  "Interceptor Mechan": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Artifact Creature — Robot"
+  },
+  "Intrepid Tenderfoot": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Citizen"
+  },
+  "Kav Landseeker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Kavu Soldier"
+  },
+  "Kavaron Harrier": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Robot Soldier"
+  },
+  "Kavaron Turbodrone": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Robot Scout"
+  },
+  "Knight Luminary": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Knight"
+  },
+  "Lightless Evangel": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Cleric"
+  },
+  "Lithobraking": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Lost in Space": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Luxknight Breacher": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Knight"
+  },
+  "Banishing Light": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Mechan Shieldmate": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Robot Soldier"
+  },
+  "Mechanozoa": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Robot Jellyfish"
+  },
+  "Meltstrider Eulogist": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Soldier"
+  },
+  "Memorial Team Leader": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Kavu Soldier"
+  },
+  "Mental Modulation": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Mm'menon, the Right Hand": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Legendary Creature — Jellyfish Advisor"
+  },
+  "Mouth of the Storm": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Mutinous Massacre": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Orbital Plunge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Oreplate Pangolin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Robot Pangolin"
+  },
+  "Pain for All": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Plasma Bolt": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Radiant Strike": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Red Tiger Mechan": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Robot Cat"
+  },
+  "Rescue Skiff": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact — Spacecraft"
+  },
+  "Rig for War": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ruinous Rampage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Sami's Curiosity": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Scout for Survivors": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Scrounge for Eternity": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Seedship Agrarian": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Scientist"
+  },
+  "Seedship Broodtender": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Creature — Insect Citizen"
+  },
+  "Selfcraft Mechan": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Robot Artificer"
+  },
+  "Skystinger": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Warrior"
+  },
+  "Slagdrill Scrapper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Robot Scout"
+  },
+  "Specimen Freighter": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact — Spacecraft"
+  },
+  "Squire's Lightblade": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Starbreach Whale": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Whale"
+  },
+  "Starfighter Pilot": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Pilot"
+  },
+  "Starport Security": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact Creature — Robot Soldier"
+  },
+  "Sunstar Chaplain": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Cleric"
+  },
+  "Sunstar Expansionist": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Knight"
+  },
+  "Sunstar Lightsmith": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Survey Mechan": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Robot"
+  },
+  "Susurian Voidborn": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Soldier"
+  },
+  "Swarm Culler": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect Warrior"
+  },
+  "Temporal Intervention": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Territorial Bruntar": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Thaumaton Torpedo": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Thawbringer": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Scout"
+  },
+  "The Dominion Bracelet": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact — Equipment"
+  },
+  "The Eternity Elevator": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact — Spacecraft"
+  },
+  "Tractor Beam": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Virulent Silencer": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Robot Assassin"
+  },
+  "Wurmwall Sweeper": {
+    "color_identity": [],
+    "type_line": "Artifact — Spacecraft"
+  },
+  "Zookeeper Mechan": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Robot"
+  },
+  "Emissary Escort": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Robot Soldier"
+  },
+  "Experimental Augury": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Harrow": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Myriad Landscape": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Roiling Regrowth": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Escape Tunnel": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Heartlash Cinder": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental Warrior"
+  },
+  "Puncture Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Grapeshot": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Assassinate": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Stingscourger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Sudden Shock": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Empty the Warrens": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Brute Force": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Thick-Skinned Goblin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Grinning Ignus": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Jaya Ballard, Task Mage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Spellshaper"
+  },
+  "Shivan Meteor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Dead // Gone": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant // Instant"
+  },
+  "Keen Sense": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Plague Witch": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Elf Spellshaper"
+  },
+  "Quiet Speculation": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Reckless Charge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Mogg Fanatic": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Second Thoughts": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Kird Ape": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ape"
+  },
+  "Rush of Adrenaline": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Path of Ancestry": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Silverbluff Bridge": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Artifact Land"
+  },
+  "Aerith Rescue Mission": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Bard's Bow": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Clash of the Eikons": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Coeurl": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Cat Beast"
+  },
+  "Commune with Beavers": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Cornered by Black Mages": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Crossroads Village": {
+    "color_identity": [],
+    "type_line": "Land — Town"
+  },
+  "Dreams of Laguna": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Elixir": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Exdeath, Void Warlock": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Legendary Creature — Spirit Warlock // Legendary Creature — Spirit Avatar"
+  },
+  "Garland, Knight of Cornelia": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Knight // Legendary Creature — Demon"
+  },
+  "Gigantoad": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Frog"
+  },
+  "Haste Magic": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ice Flan": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Elemental Ooze"
+  },
+  "Light of Judgment": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Lion Heart": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Magic Pot": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Goblin Construct"
+  },
+  "Paladin's Arms": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Prompto Argentum": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Scout"
+  },
+  "Quina, Qu Gourmet": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Creature — Qu"
+  },
+  "Rabanastre, Royal City": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Land — Town"
+  },
+  "Ring of the Lucii": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact"
+  },
+  "Rook Turret": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Rufus Shinra": {
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Human Noble"
+  },
+  "Sabotender": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Plant"
+  },
+  "Sahagin": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Merfolk Warrior"
+  },
+  "Scorpion Sentinel": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Robot Scorpion"
+  },
+  "Sephiroth's Intervention": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Sidequest: Catch a Fish": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment // Land"
+  },
+  "Sorceress's Schemes": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Summon: Esper Ramuh": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment Creature — Saga Wizard"
+  },
+  "Treno, Dark City": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Land — Town"
+  },
+  "Ultros, Obnoxious Octopus": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Legendary Creature — Octopus"
+  },
+  "Vincent's Limit Break": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "White Auracite": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact"
+  },
+  "Zidane, Tantalus Thief": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Human Mutant Scout"
+  },
+  "Stolen Uniform": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Vaan, Aspiring Sky Pirate // Captain Lannery Storm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Pirate"
+  },
+  "Vayne Carudas Solidor // Fynn, the Fangbearer": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Creature — Human Warrior"
+  },
+  "Commune with Lava": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Rile": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Holy Avenger": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Serpent Warrior": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Snake Warrior"
+  },
+  "Bite Down": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Tranquil Cove": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Land"
+  },
+  "Blossoming Sands": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Land"
+  },
+  "Blanchwood Armor": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Firebrand Archer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Archer"
+  },
+  "Broken Wings": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Grow from the Ashes": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Cackling Prowler": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Hyena Rogue"
+  },
+  "Diregraf Ghoul": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie"
+  },
+  "Slagstorm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Gnarlid Colony": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Brineborn Cutthroat": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Merfolk Pirate"
+  },
+  "Shivan Dragon": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dragon"
+  },
+  "Eager Trufflesnout": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Boar"
+  },
+  "Llanowar Elves": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Druid"
+  },
+  "Essence Scatter": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Heraldic Banner": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Faebloom Trick": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Felidar Savior": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Cat Beast"
+  },
+  "Fake Your Own Death": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Boarders": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Pirate"
+  },
+  "Goblin Negotiation": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Icewind Elemental": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Infernal Vessel": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Cleric"
+  },
+  "Infestation Sage": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Elf Warlock"
+  },
+  "Joust Through": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Stromkirk Bloodthief": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Rogue"
+  },
+  "Spitfire Lagac": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Lizard"
+  },
+  "Lightshell Duo": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Rat Otter"
+  },
+  "Spectral Sailor": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Spirit Pirate"
+  },
+  "Time Stop": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Rogue's Passage": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Perforating Artist": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Creature — Devil"
+  },
+  "Brazen Scourge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Gremlin"
+  },
+  "Prideful Parent": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Cat"
+  },
+  "Witness Protection": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Quick-Draw Katana": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Burglar Rat": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Rat"
+  },
+  "Refute": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Seismic Rupture": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Sanguine Syphoner": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Warlock"
+  },
+  "Mocking Sprite": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Faerie Rogue"
+  },
+  "Skyship Buccaneer": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Pirate"
+  },
+  "Strix Lookout": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Bird"
+  },
+  "Pilfer": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Treetop Snarespinner": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Spider"
+  },
+  "Overrun": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Youthful Valkyrie": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Angel"
+  },
+  "Macabre Waltz": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Vampire Nighthawk": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Shaman"
+  },
+  "Vanguard Seraph": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Angel Warrior"
+  },
+  "Eaten by Piranhas": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Dragon Fodder": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Vampire Interloper": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Scout"
+  },
+  "Battle-Rattle Shaman": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Fog Bank": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Wall"
+  },
+  "Crash Through": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Viashino Pyromancer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Lizard Wizard"
+  },
+  "Azorius Guildgate": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Land — Gate"
+  },
+  "Izzet Guildgate": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Land — Gate"
+  },
+  "Obliterating Bolt": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Redcap Gutter-Dweller": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Hindering Light": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Prey Upon": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Goblin Locksmith": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Goblin Cratermaker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Thought Erasure": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Kraul Foragers": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Scout"
+  },
+  "Tenth District Guard": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Inescapable Blaze": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Maximize Velocity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Torch Courier": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Dead Weight": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Barging Sergeant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Minotaur Soldier"
+  },
+  "Gravitic Punch": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Runaway Steam-Kin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Wand of Vertebrae": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Graven Abomination": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Horror"
+  },
+  "Traveler's Amulet": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Bitterbow Sharpshooters": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Jackal Archer"
+  },
+  "Aven of Enduring Hope": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bird Cleric"
+  },
+  "Blur of Blades": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Wretched Camel": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Camel"
+  },
+  "Solitary Camel": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Camel"
+  },
+  "Hope Tender": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Druid"
+  },
+  "Gift of Strength": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Gilded Cerodon": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Chandra's Defeat": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Jace's Defeat": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Consign // Oblivion": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Instant // Sorcery"
+  },
+  "Merciless Eternal": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Cleric"
+  },
+  "Khenra Eternal": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Jackal Warrior"
+  },
+  "Kindled Fury": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Carrion Screecher": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Bird"
+  },
+  "Harrier Naga": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Snake Warrior"
+  },
+  "Without Weakness": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Resolute Survivors": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Granitic Titan": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Torment of Venom": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Seer of the Last Tomorrow": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Snake Cleric"
+  },
+  "Vizier of the True": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Cleric"
+  },
+  "Fireball": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Crowned Ceratok": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Rhino"
+  },
+  "Kiln Fiend": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental Beast"
+  },
+  "Ivy Elemental": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Trepanation Blade": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Dead Reveler": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie"
+  },
+  "Fury Charm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Pillar of Flame": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Aerial Predation": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Festering Newt": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Salamander"
+  },
+  "Raking Claws": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Markov Patrician": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire"
+  },
+  "Runechanter's Pike": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Heretic's Punishment": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Traitorous Blood": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Ghoulcaller's Bell": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Abrade": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Savage Alliance": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "It of the Horrid Swarm": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Eldrazi Insect"
+  },
+  "Stitched Mangler": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Zombie Horror"
+  },
+  "Summary Dismissal": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Voldaren Epicure": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Vampire"
+  },
+  "Faith Unbroken": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Uncaged Fury": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Wretched Gryff": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Eldrazi Hippogriff"
+  },
+  "Lightning Axe": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Haunted Dead": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie"
+  },
+  "Spontaneous Mutation": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Stromkirk Occultist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Vampire Horror"
+  },
+  "Silent Departure": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Ancestral Anger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Rally the Peasants": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Syncopate": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Bladestitched Skaab": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Creature — Zombie Soldier"
+  },
+  "Fiery Temper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Thermo-Alchemist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Triskaidekaphobia": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Ambush Viper": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Snake"
+  },
+  "Intangible Virtue": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Drownyard Amalgam": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Zombie Horror"
+  },
+  "Raze the Effigy": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ardent Elementalist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Bat Whisperer": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire"
+  },
+  "Arrogant Outlaw": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Noble"
+  },
+  "Lunar Frenzy": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Arcane Infusion": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Curse of Shaken Faith": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura Curse"
+  },
+  "Dawnhart Rejuvenator": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Warlock"
+  },
+  "Secrets of the Key": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Unruly Mob": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human"
+  },
+  "Vadrik, Astral Archmage": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Wizard"
+  },
+  "Catapult Fodder": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie // Creature — Zombie"
+  },
+  "Reckless Impulse": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Charcoal Diamond": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact"
+  },
+  "Flood of Tears": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Azorius Locket": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Artifact"
+  },
+  "Phyrexian Slayer": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Phyrexian Minion"
+  },
+  "Kavu Scout": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Kavu Scout"
+  },
+  "Sparksmith": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Words of War": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Depths of Desire": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Drannith Stinger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Instruments of War": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Strider Harness": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Holdout Settlement": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Zada's Commando": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Archer Ally"
+  },
+  "Goblin Freerunner": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior Ally"
+  },
+  "Devour in Flames": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Immobilizer Eldrazi": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Void Grafter": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Essence Depleter": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Press into Service": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Flaying Tendrils": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Maw of Kozilek": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Reckless Bushwhacker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior Ally"
+  },
+  "Kozilek's Shrieker": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Tears of Valakut": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Zulaport Chainmage": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Shaman Ally"
+  },
+  "Negate": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Hedron Crawler": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Ruin in Their Wake": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Havoc Sower": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Cyclone Sire": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Harvester Troll": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Troll"
+  },
+  "Reaver Drone": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Eldrazi Drone"
+  },
+  "Long-Finned Skywhale": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Whale"
+  },
+  "Sky Skiff": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Tezzeret's Ambition": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Inventor's Apprentice": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Highspire Artisan": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Artificer"
+  },
+  "Spontaneous Artist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Gearshift Ace": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Pilot"
+  },
+  "Weldfast Wingsmith": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Inspired Charge": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Ballista Charger": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Wily Bandar": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Cat Monkey"
+  },
+  "Embraal Bruiser": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Spark of Creativity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Fretwork Colony": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Trusty Companion": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Hyena"
+  },
+  "Built to Smash": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ornamental Courage": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Demolish": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Depala, Pilot Exemplar": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Dwarf Pilot"
+  },
+  "Fortuitous Find": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Wind Drake": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Drake"
+  },
+  "Ovalchase Dragster": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Tasseled Dromedary": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Camel"
+  },
+  "Weaponcraft Enthusiast": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Aetherborn Artificer"
+  },
+  "Hightide Hermit": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Crab"
+  },
+  "Giant Spectacle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Fleetwheel Cruiser": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Maulfist Squad": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Sequestered Stash": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Ambitious Aetherborn": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Aetherborn Artificer"
+  },
+  "Madcap Experiment": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Servo Exhibition": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Essence Extraction": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Speedway Fanatic": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Pilot"
+  },
+  "Elegant Edgecrafters": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Artificer"
+  },
+  "Fragmentize": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Renegade Freighter": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Glint-Nest Crane": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Bird"
+  },
+  "Skyswirl Harrier": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bird"
+  },
+  "Wayward Giant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Giant"
+  },
+  "Subtle Strike": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Consul's Shieldguard": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Soldier"
+  },
+  "Foundry Screecher": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Bat"
+  },
+  "Thriving Ibex": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Goat"
+  },
+  "Commencement of Festivities": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Failed Inspection": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Vedalken Blademaster": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Vedalken Soldier"
+  },
+  "Thriving Grubs": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Gremlin"
+  },
+  "Acrobatic Maneuver": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Bastion Mastodon": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact Creature — Elephant"
+  },
+  "Aviary Mechanic": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Artificer"
+  },
+  "Prakhata Pillar-Bug": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact Creature — Insect"
+  },
+  "Die Young": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Veteran Motorist": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Pilot"
+  },
+  "Dukhara Scavenger": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Crocodile"
+  },
+  "Dukhara Peafowl": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Bird"
+  },
+  "Propeller Pioneer": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Arborback Stomper": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Engineered Might": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Pressure Point": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Prophetic Prism": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Cogworker's Puzzleknot": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact"
+  },
+  "Harnessed Lightning": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Thriving Rats": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Rat"
+  },
+  "Refurbish": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Aethertorch Renegade": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Furious Reprisal": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Revolutionary Rebuff": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Sage of Shaila's Claim": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Druid"
+  },
+  "Weldfast Monitor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Lizard"
+  },
+  "Hijack": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Terror of the Fairgrounds": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Gremlin"
+  },
+  "Snare Thopter": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Thopter"
+  },
+  "Disappearing Act": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "AEther Tradewinds": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Consulate Surveillance": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Live Fast": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Open the Omenpaths": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Seize the Spoils": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Dual Strike": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Demonic Gifts": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Run Amok": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Frost Bite": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Snow Instant"
+  },
+  "Rally the Ranks": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Meandering River": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Land"
+  },
+  "The Shattered States Era": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Saga // Enchantment Creature — Human Samurai"
+  },
+  "Twinshot Sniper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Goblin Archer"
+  },
+  "Spinning Wheel Kick": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Thundersteel Colossus": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Containment Construct": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Explosive Entry": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Hotshot Mechanic": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Artifact Creature — Fox Pilot"
+  },
+  "Hidetsugu, Devouring Chaos": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Ogre Demon"
+  },
+  "Invoke Calamity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Kumano Faces Kakkazan": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Saga // Enchantment Creature — Human Shaman"
+  },
+  "Fang of Shigeki": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment Creature — Snake Ninja"
+  },
+  "Runaway Trash-Bot": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Satoru Umezawa": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Ninja"
+  },
+  "Network Terminal": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Aeronaut Admiral": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Pilot"
+  },
+  "Myojin of Blooming Dawn": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Legendary Creature — Spirit"
+  },
+  "Silver Myr": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Myr"
+  },
+  "Kappa Tech-Wrecker": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Turtle Ninja"
+  },
+  "Explosive Singularity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Act of Treason": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Goblinslide": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Timely Hordemate": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Swiftwater Cliffs": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Embodiment of Spring": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Shatter": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Heir of the Wilds": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Bloodfire Mentor": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Efreet Shaman"
+  },
+  "Scion of Glaciers": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Arc Lightning": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Rakshasa's Secret": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Flying Crane Technique": {
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Izzet Cluestone": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Artifact"
+  },
+  "Thought Collapse": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Spear Spewer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Deface": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Pestilent Spirit": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Spirit"
+  },
+  "Gutterbones": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Skeleton Warrior"
+  },
+  "Zhur-Taa Goblin": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Creature — Goblin Berserker"
+  },
+  "Clear the Mind": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Shimmer of Possibility": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Immolation Shaman": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Lizard Shaman"
+  },
+  "Clamor Shaman": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Thriving Grove": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Land"
+  },
+  "Commander's Sphere": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Garruk's Uprising": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Ingot Chewer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Cathartic Pyre": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Chain Reaction": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Unclaimed Territory": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Steadfast Cathar": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Ulvenwald Captive": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Werewolf Horror // Creature — Eldrazi Werewolf"
+  },
+  "Make Mischief": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Markov Crusader": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Knight"
+  },
+  "Distemper of the Blood": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Turn Aside": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Kessig Prowler": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Werewolf Horror // Creature — Eldrazi Werewolf"
+  },
+  "Incendiary Flow": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Mercurial Geists": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Spirit"
+  },
+  "Curious Homunculus": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Homunculus // Creature — Eldrazi Homunculus"
+  },
+  "Otherworldly Outburst": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Shreds of Sanity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Backwoods Survivalists": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Weaver of Lightning": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Weirded Vampire": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Horror"
+  },
+  "Siege-Gang Commander": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Destructive Force": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Incite": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Leyline of Punishment": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Fog": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Manic Vandal": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Goblin Shortcutter": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Scout"
+  },
+  "Vile Rebirth": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Vampire Warlord": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Warrior"
+  },
+  "Might Makes Right": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Staff of the Flame Magus": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Chandra, Pyromaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Planeswalker — Chandra"
+  },
+  "Circle of Flame": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Torch Fiend": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Devil"
+  },
+  "Krenko's Enforcer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Send to Sleep": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Embermaw Hellion": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Hellion"
+  },
+  "Blightcaster": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Jayemdae Tome": {
+    "color_identity": [],
+    "type_line": "Artifact — Book"
+  },
+  "Smash to Smithereens": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Reclaim": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "War Horn": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Scrappy Bruiser": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Raccoon Warrior"
+  },
+  "Complete the Circuit": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Invasion of Kamigawa": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Battle — Siege // Creature — Moonfolk Ninja"
+  },
+  "Invasion of Mercadia": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Battle — Siege // Creature — Goblin Spellshaper"
+  },
+  "Invasion of Regatha": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Battle — Siege // Creature — Human Monk"
+  },
+  "Zhalfirin Shapecraft": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Flywheel Racer": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Into the Fire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Akki Scrapchomper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Phyrexian Goblin"
+  },
+  "Coming In Hot": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Furnace Reins": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Ral's Reinforcements": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lithomantic Barrage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Goblin Medics": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Goblin Instigator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Blot Out": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Alien Symbiosis": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Beetle, Legacy Criminal": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Rogue Villain"
+  },
+  "Common Crook": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Rogue Villain"
+  },
+  "Daily Bugle Reporters": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Citizen"
+  },
+  "Eerie Gravestone": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact"
+  },
+  "Electro's Bolt": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Jackal, Genius Geneticist": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Scientist Villain"
+  },
+  "Living Brain, Mechanical Marvel": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact Creature — Robot Villain"
+  },
+  "Morlun, Devourer of Spiders": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Legendary Creature — Vampire Villain"
+  },
+  "Shriek, Treblemaker": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Mutant Villain"
+  },
+  "Spider-Islanders": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Spider Horror Citizen"
+  },
+  "Spider-Man No More": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Spider-Rex, Daring Dino": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Creature — Spider Dinosaur Hero"
+  },
+  "Kyren Sniper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Uphill Battle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Stone Rain": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Pretender's Claim": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Magistrate's Veto": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Death's-Head Buzzard": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Bird"
+  },
+  "Cultivate": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Ire Shaman": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Orc Shaman"
+  },
+  "Fireshrieker": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Core Prowler": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Phyrexian Horror"
+  },
+  "Ogre Resister": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ogre"
+  },
+  "Phyresis": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Crush": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Red Sun's Zenith": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lingering Souls": {
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Honor of the Pure": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Lava Dart": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ingenious Infiltrator": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Creature — Vedalken Ninja"
+  },
+  "Nimble Mongoose": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Mongoose"
+  },
+  "Pillage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Shenanigans": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Flame Blitz": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Tizerus Charger": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Pegasus"
+  },
+  "Calibrated Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Traprunner": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Cabal Initiate": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Warlock"
+  },
+  "Spreading Insurrection": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Faithless Salvaging": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Galvanic Relay": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Mogg Salvage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Gorilla Shaman": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ape Shaman"
+  },
+  "Horrific Assault": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Sneaky Snacker": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Creature — Faerie Rogue"
+  },
+  "Infernal Captor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Devil Rogue"
+  },
+  "Fanged Flames": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Nightshade Dryad": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Dryad"
+  },
+  "Powerbalance": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Sundering Eruption": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery // Land"
+  },
+  "Siege Smash": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Null Elemental Blast": {
+    "color_identity": [],
+    "type_line": "Instant"
+  },
+  "Ghostfire Slice": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Meltdown": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Utter Insignificance": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Worn Powerstone": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Molten Gatekeeper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Golem"
+  },
+  "Gift of the Viper": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Ral and the Implicit Maze": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Saga"
+  },
+  "Barbarian Ring": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Sarpadian Simulacrum": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Goblin"
+  },
+  "Evolution Witness": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Shaman Mutant"
+  },
+  "Mogg Mob": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Unfathomable Truths": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Glimpse the Impossible": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Artisan of Kozilek": {
+    "color_identity": [],
+    "type_line": "Creature — Eldrazi"
+  },
+  "Hidden Cataract": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Land — Cave"
+  },
+  "Sire of Stagnation": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Creature — Eldrazi"
+  },
+  "Spawning Bed": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Acidic Slime": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Ooze"
+  },
+  "Lush Oasis": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Land — Desert"
+  },
+  "Aethersphere Harvester": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Terastodon": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elephant"
+  },
+  "Death Rattle": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "War-Spike Changeling": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Shapeshifter"
+  },
+  "Scavenger Drake": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Drake"
+  },
+  "Goblin Fireslinger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Goblin Assault": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Skirsdag Cultist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Wake the Reflections": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Thunderous Wrath": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Magma Jet": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Damping Matrix": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Kor Hookmaster": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Kor Soldier"
+  },
+  "Druid's Deliverance": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Teleportal": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Night Terrors": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Fynn, the Fangbearer": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Creature — Human Warrior"
+  },
+  "Squee, the Immortal": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin"
+  },
+  "Valduk, Keeper of the Flame": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Shaman"
+  },
+  "Shattering Spree": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Akroan Conscriptor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Thunder Brute": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Cyclops"
+  },
+  "Mindreaver": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Akroan Phalanx": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "God-Favored General": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Shrike Harpy": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Harpy"
+  },
+  "Siren Song Lyre": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Servant of Tymaret": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie"
+  },
+  "Siren of the Fanged Coast": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Siren"
+  },
+  "Nyxborn Triton": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment Creature — Merfolk"
+  },
+  "Bedhead Beastie": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Bottomless Pool // Locker Room": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Room // Enchantment — Room"
+  },
+  "Break Down the Door": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Chainsaw": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Clockwork Percussionist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Monkey Toy"
+  },
+  "Conductive Machete": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Cursed Recording": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact"
+  },
+  "Dashing Bloodsucker": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Warrior"
+  },
+  "Derelict Attic // Widow's Walk": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Room // Enchantment — Room"
+  },
+  "Diversion Specialist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Enter the Enigma": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Fear of Abduction": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment Creature — Nightmare"
+  },
+  "Fear of Burning Alive": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment Creature — Nightmare"
+  },
+  "Fear of Failed Tests": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment Creature — Nightmare"
+  },
+  "Fear of Immobility": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment Creature — Nightmare"
+  },
+  "Fear of Infinity": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Enchantment Creature — Nightmare"
+  },
+  "Final Vengeance": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Flesh Burrower": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Friendly Ghost": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Spirit"
+  },
+  "Friendly Teddy": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Bear Toy"
+  },
+  "Give In to Violence": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Glassworks // Shattered Yard": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Room // Enchantment — Room"
+  },
+  "Glimmerburst": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Grab the Prize": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Hand That Feeds": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Mutant"
+  },
+  "Impossible Inferno": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Leyline of Resonance": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Manifest Dread": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Most Valuable Slayer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Painter's Studio // Defaced Gallery": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Room // Enchantment — Room"
+  },
+  "Paranormal Analyst": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Detective"
+  },
+  "Pyroclasm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Razorkin Hordecaller": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Clown Berserker"
+  },
+  "Skullsnap Nuisance": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Creature — Insect Skeleton"
+  },
+  "Spectral Snatcher": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Spirit"
+  },
+  "Sporogenic Infection": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Ticket Booth // Tunnel of Hate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Room // Enchantment — Room"
+  },
+  "Trial of Agony": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Turn Inside Out": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Twitching Doll": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact Creature — Spider Toy"
+  },
+  "Unable to Scream": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Under the Skin": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Underwater Tunnel // Slimy Aquarium": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Room // Enchantment — Room"
+  },
+  "Valgavoth's Onslaught": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Violent Urge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Archetype of Imagination": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment Creature — Human Wizard"
+  },
+  "Geothermal Bog": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Land — Swamp Mountain"
+  },
+  "Gnarlwood Dryad": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Dryad Horror"
+  },
+  "Light Up the Stage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Read the Bones": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "The Eldest Reborn": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Saga"
+  },
+  "Halimar Depths": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Dig Through Time": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Vivid Creek": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Geosurge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Slinking Skirge": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Phyrexian Imp"
+  },
+  "Goblin Gardener": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Private Research": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Granite Grip": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Impending Disaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Last-Ditch Effort": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Mirkwood Spider": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Spider"
+  },
+  "Display of Power": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Erebor Flamesmith": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dwarf Artificer"
+  },
+  "Phial of Galadriel": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact"
+  },
+  "Ent's Fury": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Gimli, Counter of Kills": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Dwarf Warrior"
+  },
+  "Battle-Scarred Goblin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Smite the Deathless": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Grishnakh, Brash Instigator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Soldier"
+  },
+  "Fiery Inscription": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Rush the Room": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Barrow-Blade": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Fear, Fire, Foes!": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Rising of the Day": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Goblin Fireleaper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Gandalf's Sanction": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Moria Marauder": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Breaking of the Fellowship": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Lorien Brooch // Trailblazer's Boots": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Blazing Salvo": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Vraska Joins Up": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Legendary Enchantment"
+  },
+  "Discerning Peddler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Raucous Entertainer": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Plant Bard"
+  },
+  "Trained Arynx": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Cat Beast Mount"
+  },
+  "Highway Robbery": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Silver Deputy": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Mercenary"
+  },
+  "Eroded Canyon": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Land — Desert"
+  },
+  "Canyon Crab": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Crab"
+  },
+  "Irascible Wolverine": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Wolverine"
+  },
+  "Sterling Keykeeper": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Mercenary"
+  },
+  "Giant Beaver": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Beaver Mount"
+  },
+  "Cunning Coyote": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Coyote"
+  },
+  "Freestrider Commando": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Centaur Mercenary"
+  },
+  "Raven of Fell Omens": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Bird"
+  },
+  "Explosive Derailment": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Geyser Drake": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Drake"
+  },
+  "Harrier Strix": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Bird"
+  },
+  "Bounding Felidar": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Cat Beast Mount"
+  },
+  "Sterling Supplier": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Bird Soldier"
+  },
+  "Ambush Gigapede": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Shifting Grift": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Wanted Griffin": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Griffin"
+  },
+  "Phantom Interference": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Scalestorm Summoner": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Warlock"
+  },
+  "Metamorphic Blast": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Kraum, Violent Cacophony": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Zombie Horror"
+  },
+  "Reckless Lackey": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Pirate"
+  },
+  "Daring Thunder-Thief": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Turtle Rogue"
+  },
+  "Throw from the Saddle": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Ruthless Lawbringer": {
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "type_line": "Creature — Vampire Assassin"
+  },
+  "Luxurious Locomotive": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Mirage Mesa": {
+    "color_identity": [],
+    "type_line": "Land — Desert"
+  },
+  "Ankle Biter": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Snake"
+  },
+  "Patient Naturalist": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Scout"
+  },
+  "Caught in the Crossfire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "The Gitrog, Ravenous Ride": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Legendary Creature — Frog Horror Mount"
+  },
+  "Hell to Pay": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Resilient Roadrunner": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Bird"
+  },
+  "Outlaw Medic": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Shepherd of the Clouds": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Pegasus"
+  },
+  "Rodeo Pyromancers": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Mercenary"
+  },
+  "Iron-Fist Pulverizer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Giant Warrior"
+  },
+  "Desert's Due": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Quick Draw": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Scorching Shot": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Cactusfolk Sureshot": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Creature — Plant Mercenary"
+  },
+  "Loan Shark": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Shark Rogue"
+  },
+  "Blood Hustler": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Vampire Rogue"
+  },
+  "Omenport Vigilante": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Mercenary"
+  },
+  "Magda, the Hoardmaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Dwarf Berserker"
+  },
+  "Captain Lannery Storm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Pirate"
+  },
+  "Desert of the Fervent": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land — Desert"
+  },
+  "Goblin Electromancer": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Goblin Wizard"
+  },
+  "Niv-Mizzet, Parun": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Dragon Wizard"
+  },
+  "Painted Bluffs": {
+    "color_identity": [],
+    "type_line": "Land — Desert"
+  },
+  "Magmatic Insight": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Bitter Reunion": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Electric Revelation": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Aetherborn Marauder": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Aetherborn Rogue"
+  },
+  "Talrand, Sky Summoner": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Legendary Creature — Merfolk Wizard"
+  },
+  "Tattermunge Duo": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior Shaman"
+  },
+  "Elsewhere Flask": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Drowner Initiate": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Merfolk Wizard"
+  },
+  "Madblind Mountain": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land — Mountain"
+  },
+  "Ichorspit Basilisk": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Phyrexian Basilisk"
+  },
+  "Furnace Skullbomb": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact"
+  },
+  "Slaughter Singer": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Creature — Phyrexian Cleric"
+  },
+  "Furnace Punisher": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Phyrexian Warrior"
+  },
+  "Bladehold War-Whip": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Gleeful Demolition": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Awaken the Sleeper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Blazing Crescendo": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Exuberant Fuseling": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Phyrexian Goblin Warrior"
+  },
+  "Geth, Thane of Contracts": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Legendary Creature — Phyrexian Zombie"
+  },
+  "Graaz, Unstoppable Juggernaut": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact Creature — Juggernaut"
+  },
+  "Infectious Inquiry": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Free from Flesh": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Dune Mover": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Phyrexian Golem"
+  },
+  "Prologue to Phyresis": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Barbed Batterfist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Serum-Core Chimera": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Phyrexian Chimera"
+  },
+  "Hazardous Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Malcator's Watcher": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact Creature — Phyrexian Drone"
+  },
+  "Contagious Vorrac": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Phyrexian Boar Beast"
+  },
+  "Sawblade Scamp": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Phyrexian Beast"
+  },
+  "Hordeling Outburst": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Loxodon Warhammer": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Arc Trail": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Thorn-Thrash Viashino": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Creature — Lizard Warrior"
+  },
+  "Death's Approach": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Scatter Arc": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Massive Raid": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "AEtherize": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Flay": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Rethink": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Guide": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Scout"
+  },
+  "Fissure": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Mesa Pegasus": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Pegasus"
+  },
+  "Skewer the Critics": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Mugging": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Forced Landing": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Voyager Staff": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Siege of Towers": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Krenko's Command": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Crackling Drake": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Drake"
+  },
+  "Tin Street Dodger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Skullcrack": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Scorched Rusalka": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Spirit"
+  },
+  "Sewer Shambler": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie"
+  },
+  "Siege Wurm": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Wurm"
+  },
+  "Thoughtpicker Witch": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Dogpile": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Spellgorger Weird": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Weird"
+  },
+  "Mausoleum Turnkey": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Ogre Rogue"
+  },
+  "Rootborn Defenses": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Utvara Scalper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Scout"
+  },
+  "Ornery Goblin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Lavinia, Foil to Conspiracy": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Legendary Creature — Human Detective"
+  },
+  "Parhelion Patrol": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Knight"
+  },
+  "Repeal": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Leapfrog": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Frog"
+  },
+  "Mystical Dispute": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Fireblade Charger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Magmatic Channeler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Grotag Night-Runner": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Kazuul's Fury": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant // Land"
+  },
+  "Inordinate Rage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Nahiri's Lithoforming": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Fissure Wizard": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Wizard"
+  },
+  "Phylath, World Sculptor": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Legendary Creature — Elemental"
+  },
+  "Spikefield Hazard": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant // Land"
+  },
+  "Silundi Vision": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant // Land"
+  },
+  "Roiling Vortex": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Keeper of Fables": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Cat"
+  },
+  "Master Thief": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Dimir Locket": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Artifact"
+  },
+  "Blistercoil Weird": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Weird"
+  },
+  "Cancel": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Lobber Crew": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Racecourse Fury": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Zanikev Locust": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Perilous Shadow": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect Shade"
+  },
+  "Elgaud Shieldmate": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Night Market Aeronaut": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Aetherborn Warrior"
+  },
+  "Embraal Gear-Smasher": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Warrior"
+  },
+  "Verdant Automaton": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Scrapper Champion": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Leave in the Dust": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Decommission": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Wrangle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Consulate Dreadnought": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Irontread Crusher": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Kari Zev's Expertise": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Alley Evasion": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Enraged Giant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Giant"
+  },
+  "Precise Strike": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Mobile Garrison": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Implement of Examination": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Artifact"
+  },
+  "Implement of Ferocity": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Artifact"
+  },
+  "Implement of Malice": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Artifact"
+  },
+  "Gremlin Infestation": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Audacious Infiltrator": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Rogue"
+  },
+  "Aetherstream Leopard": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Cat"
+  },
+  "Caught in the Brights": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Fen Hauler": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Sly Requisitioner": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Renegade Wheelsmith": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Creature — Dwarf Pilot"
+  },
+  "Sweatworks Brawler": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Artificer"
+  },
+  "Foundry Hornet": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Insect"
+  },
+  "Quick-Draw Dagger": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Waterfront District": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Jaxis, the Troublemaker": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Warrior"
+  },
+  "Inner Fire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Orcish Oriflamme": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Unsummon": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Sin Prodder": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Devil"
+  },
+  "Flameblade Angel": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Angel"
+  },
+  "Inner Struggle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Gibbering Fiend": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Devil"
+  },
+  "Pore Over the Pages": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Vessel of Volatility": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Fevered Visions": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Scavenger Grounds": {
+    "color_identity": [],
+    "type_line": "Land — Desert"
+  },
+  "Shock": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Infuriate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Adventurous Impulse": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Claim the Firstborn": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Culmination of Studies": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Sudden Breakthrough": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Enthusiastic Study": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Conspiracy Theorist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Agent of Kotis": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Boulderborn Dragon": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Dragon"
+  },
+  "Desperate Measures": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Dragon's Prey": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Dragonback Lancer": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Dragonbroods' Relic": {
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "type_line": "Artifact"
+  },
+  "Fire-Rim Form": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Glacial Dragonhunt": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Humbling Elder": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Monk"
+  },
+  "Kin-Tree Severance": {
+    "color_identity": [
+      "B",
+      "G",
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Overwhelming Surge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Rebellious Strike": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Instant"
+  },
+  "Roamer's Routine": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Seize Opportunity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Shocking Sharpshooter": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Archer"
+  },
+  "Sunset Strikemaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Monk"
+  },
+  "Snakeskin Veil": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "War Effort": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Wild Ride": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Deep Analysis": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Wayfarer's Bauble": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Radiant Grove": {
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "type_line": "Land — Forest Plains"
+  },
+  "Castle Embereth": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Legion Warboss": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Soldier"
+  },
+  "Springbloom Druid": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Druid"
+  },
+  "Grenzo, Havoc Raiser": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Rogue"
+  },
+  "Think Twice": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Crashing Drawbridge": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Wall"
+  },
+  "Jaddi Offshoot": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Plant"
+  },
+  "Dragonlord's Servant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Azorius Signet": {
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "type_line": "Artifact"
+  },
+  "Natural Spring": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Tooth and Claw": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Tenacious Tomeseeker": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Knight"
+  },
+  "Armory Mice": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Mouse"
+  },
+  "Unruly Catapult": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact Creature — Construct"
+  },
+  "Besotted Knight // Betroth the Beast": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Knight // Sorcery — Adventure"
+  },
+  "Commune with Nature": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Freeze in Place": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Grand Ball Guest": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Peasant"
+  },
+  "Kindled Heroism": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Imodane, the Pyrohammer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Knight"
+  },
+  "Torch the Tower": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Johann, Apprentice Sorcerer": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Human Wizard Sorcerer"
+  },
+  "Redcap Thief": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Eriette's Tempting Apple": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact — Food"
+  },
+  "Witch's Mark": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Into the Fae Court": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Howling Galefang": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Beast"
+  },
+  "Snaremaster Sprite": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Faerie Wizard"
+  },
+  "The Apprentice's Folly": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Enchantment — Saga"
+  },
+  "A Tale for the Ages": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Verdant Outrider": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Knight"
+  },
+  "Wicked Visitor": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Nightmare"
+  },
+  "Restless Vinestalk": {
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Sage's Reverie": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Unknown Shores": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Fleetfeather Sandals": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Omen of the Forge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Demon of Loathing": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Demon"
+  },
+  "Ichthyomorphosis": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Purphoros's Intervention": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Whirlwind Denial": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Underworld Dreams": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Enchantment"
+  },
+  "One With the Stars": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Moss Viper": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Snake"
+  },
+  "Orcish Librarian": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Orc"
+  },
+  "Avalanche Riders": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Nomad"
+  },
+  "Cabal Surgeon": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Human Minion"
+  },
+  "Sporecap Spider": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Spider"
+  },
+  "Witch's Cottage": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Land — Swamp"
+  },
+  "Lash of Thorns": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Merchant of the Vale // Haggle": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Peasant // Instant — Adventure"
+  },
+  "Slaying Fire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Barge In": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Forever Young": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Dwarven Mine": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land — Mountain"
+  },
+  "Didn't Say Please": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Mystic Sanctuary": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Land — Island"
+  },
+  "Crystal Slipper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact — Equipment"
+  },
+  "Faerie Guidemother // Gift of Fae": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Faerie // Sorcery — Adventure"
+  },
+  "Outlaws' Merriment": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Hypothesizzle": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Ionize": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Repulse": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Back for More": {
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "type_line": "Instant"
+  },
+  "Tethmos High Priest": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Cat Cleric"
+  },
+  "Raid Bombardment": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Skyspear Cavalry": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Ghoulsteed": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Zombie Horse"
+  },
+  "Akroan Crusader": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Golgari Brownscale": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Lizard"
+  },
+  "Hero of Iroas": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Creature — Human Soldier"
+  },
+  "Generator Servant": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Deserter's Quarters": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Bassara Tower Archer": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Human Archer"
+  },
+  "Feast of Dreams": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Cyclops of Eternal Fury": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment Creature — Cyclops"
+  },
+  "Gluttonous Cyclops": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Cyclops"
+  },
+  "Riddle of Lightning": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Nightmarish End": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Instant"
+  },
+  "Skybind": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Flamespeaker's Will": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Goliath Truck": {
+    "color_identity": [],
+    "type_line": "Artifact — Vehicle"
+  },
+  "Chaos Terminator Lord": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Astartes Warrior"
+  },
+  "Stealer of Secrets": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Human Rogue"
+  },
+  "Rishkar's Expertise": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Runeflare Trap": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant — Trap"
+  },
+  "Quest for Pure Flame": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Goblin Ruinblaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Arcane Signet": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Karn's Bastion": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Bolt Bend": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Krenko, Tin Street Kingpin": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin"
+  },
+  "Evolution Sage": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Elf Druid"
+  },
+  "Gwenna, Eyes of Gaea": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Legendary Creature — Elf Druid Scout"
+  },
+  "Third Path Iconoclast": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Creature — Human Monk"
+  },
+  "Hobgoblin Bandit Lord": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Unexpected Windfall": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Blasphemous Act": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Throne of the God-Pharaoh": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact"
+  },
+  "Restless Reef": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Ojer Axonil, Deepest Might": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — God // Land"
+  },
+  "Shared Animosity": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Ulamog, the Infinite Gyre": {
+    "color_identity": [],
+    "type_line": "Legendary Creature — Eldrazi"
+  },
+  "Azure Beastbinder": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Rat Rogue"
+  },
+  "Coruscation Mage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Otter Wizard"
+  },
+  "Eddymurk Crab": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Elemental Crab"
+  },
+  "Thundertrap Trainer": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Creature — Otter Wizard"
+  },
+  "Desperate Ritual": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant — Arcane"
+  },
+  "Simian Spirit Guide": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Ape Spirit"
+  },
+  "Dualcaster Mage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Lightning Greaves": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Sol Ring": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Fury Storm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Increasing Vengeance": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Magus of the Wheel": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Wizard"
+  },
+  "Ruby Medallion": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Wheel of Misfortune": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Swiftfoot Boots": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Inspired Tinkering": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Storm-Kiln Artist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dwarf Shaman"
+  },
+  "Treasure Nabber": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Rogue"
+  },
+  "Hellkite Charger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dragon"
+  },
+  "Champion's Helm": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Bonders' Enclave": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Neheb, the Eternal": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Zombie Minotaur Warrior"
+  },
+  "Faithless Looting": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Mana Geyser": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Impact Tremors": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Goblin Trashmaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Glint-Horn Buccaneer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Minotaur Pirate"
+  },
+  "Chandra's Incinerator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Elemental"
+  },
+  "Brash Taunter": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Double Vision": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Quest for the Goblin Lord": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Past in Flames": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Fireblast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Pashalik Mons": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Warrior"
+  },
+  "Rundvelt Hordemaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Squee, Dubious Monarch": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Noble"
+  },
+  "Vexing Shusher": {
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "type_line": "Creature — Goblin Shaman"
+  },
+  "Thousand-Year Storm": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Goblin Chieftain": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Warren Instigator": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Berserker"
+  },
+  "Sacred Foundry": {
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "type_line": "Land — Mountain Plains"
+  },
+  "Mightform Harmonizer": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Insect Druid"
+  },
+  "Pinnacle Emissary": {
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "type_line": "Artifact Creature — Robot"
+  },
+  "Weftstalker Ardent": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Drix Artificer"
+  },
+  "Reiterate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Dreadhorde Arcanist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Zombie Wizard"
+  },
+  "Haze of Rage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Rancor": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Basilisk Collar": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "War Room": {
+    "color_identity": [],
+    "type_line": "Land"
+  },
+  "Nibelheim Aflame": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Raubahn, Bull of Ala Mhigo": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Warrior"
+  },
+  "The Darkness Crystal": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Legendary Artifact"
+  },
+  "The Fire Crystal": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Artifact"
+  },
+  "Ultima, Origin of Oblivion": {
+    "color_identity": [],
+    "type_line": "Legendary Creature — God"
+  },
+  "Gilgamesh, Weapon Collector // Godo, Bandit Warlord": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Human Barbarian"
+  },
+  "Orphan, Cocoon fal'Cie // Muldrotha, the Gravetide": {
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "type_line": "Legendary Creature — Elemental Avatar"
+  },
+  "Pyrostatic Pillar": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Sulfuric Vortex": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Mogg Infestation": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Banner of Kinship": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Chandra, Flameshaper": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Planeswalker — Chandra"
+  },
+  "Kaito, Cunning Infiltrator": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Legendary Planeswalker — Kaito"
+  },
+  "Krenko, Mob Boss": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Goblin Warrior"
+  },
+  "Electroduplicate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Electrostatic Field": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Wall"
+  },
+  "End the Festivities": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Kessig Flamebreather": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Shaman"
+  },
+  "Fact or Fiction": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Brightstone Ritual": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Rampaging Ferocidon": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Dinosaur"
+  },
+  "Flash of Insight": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Toralf, God of Fury": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — God // Legendary Artifact — Equipment"
+  },
+  "Boggart Shenanigans": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Kindred Enchantment — Goblin"
+  },
+  "Needle Drop": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Reverberate": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Pyretic Ritual": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Grenade": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Warstorm Surge": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Fervor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "City on Fire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Wrenn's Resolve": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Kami of Whispered Hopes": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Creature — Spirit"
+  },
+  "Curiosity": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Enchantment — Aura"
+  },
+  "Goblin War Drums": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Darksteel Plate": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Strike It Rich": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Arena of Glory": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Land"
+  },
+  "Flare of Duplication": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Ashling, Flame Dancer": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Elemental Shaman"
+  },
+  "Cursed Mirror": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Artifact"
+  },
+  "Emperor of Bones": {
+    "color_identity": [
+      "B"
+    ],
+    "type_line": "Creature — Skeleton Noble"
+  },
+  "Laelia, the Blade Reforged": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Spirit Warrior"
+  },
+  "Pinnacle Monk": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Djinn Monk // Land"
+  },
+  "Anger": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Incarnation"
+  },
+  "Tempt with Mayhem": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Gut Shot": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Piledriver": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin Warrior"
+  },
+  "Braid of Fire": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Enduring Courage": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment Creature — Dog Glimmer"
+  },
+  "Razorkin Needlehead": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Human Assassin"
+  },
+  "Untimely Malfunction": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Gloomlake Verge": {
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "type_line": "Land"
+  },
+  "Marvin, Murderous Mimic": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact Creature — Toy"
+  },
+  "Seething Song": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Etali, Primal Storm": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Elder Dinosaur"
+  },
+  "Caged Sun": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Snap": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Sting, the Glinting Dagger": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact — Equipment"
+  },
+  "Glamdring": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact — Equipment"
+  },
+  "Price of Glory": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Goblin King": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Lavaspur Boots": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Jagged Barrens": {
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "type_line": "Land — Desert"
+  },
+  "Magebane Lizard": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Lizard"
+  },
+  "Return the Favor": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Great Train Heist": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Pili-Pala": {
+    "color_identity": [],
+    "type_line": "Artifact Creature — Scarecrow"
+  },
+  "Thirsting Roots": {
+    "color_identity": [
+      "G"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Fellwar Stone": {
+    "color_identity": [],
+    "type_line": "Artifact"
+  },
+  "Red Elemental Blast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Manabarbs": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Lightning Bolt": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Illusionist's Bracers": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Sword of the Paruns": {
+    "color_identity": [],
+    "type_line": "Artifact — Equipment"
+  },
+  "Mizzix's Mastery": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Valakut Exploration": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Sphere of Safety": {
+    "color_identity": [
+      "W"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Vandalblast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Battle Hymn": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Witty Roastmaster": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Devil Citizen"
+  },
+  "Big Score": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Tolarian Winds": {
+    "color_identity": [
+      "U"
+    ],
+    "type_line": "Instant"
+  },
+  "Fiery Confluence": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Desert": {
+    "color_identity": [],
+    "type_line": "Land — Desert"
+  },
+  "Chaos Warp": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  },
+  "Goblin Bombardment": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment"
+  },
+  "Virtue of Courage // Embereth Blaze": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment // Instant — Adventure"
+  },
+  "Eidolon of the Great Revel": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Enchantment Creature — Spirit"
+  },
+  "Blackblade Reforged": {
+    "color_identity": [],
+    "type_line": "Legendary Artifact — Equipment"
+  },
+  "Torbran, Thane of Red Fell": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Legendary Creature — Dwarf Noble"
+  },
+  "Twinflame": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Sorcery"
+  },
+  "Goblin Recruiter": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Creature — Goblin"
+  },
+  "Pyroblast": {
+    "color_identity": [
+      "R"
+    ],
+    "type_line": "Instant"
+  }
+}

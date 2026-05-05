@@ -6,4 +6,6 @@ export interface CardData {
   collectorNumber: string;
   quantidade: number;
   isFoil: boolean;
+  color_identity?: string[];
+  type_line?: string;
 }

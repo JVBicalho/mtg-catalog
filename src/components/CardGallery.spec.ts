@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { mount } from '@vue/test-utils';
 import CardGallery from './CardGallery.vue';
+import CardItem from './CardItem.vue';
 import type { CardData } from '../types';
 
 describe('CardGallery', () => {
@@ -14,10 +15,7 @@ describe('CardGallery', () => {
       props: { collection: mockCollection }
     });
 
-    wrapper.findAllComponents({ name: 'CardItem' });
-    // Note: If CardItem name is not explicitly defined, we might need another selector.
-    // Let's assume we can find them by a class or just check the number of images.
-    expect(wrapper.findAll('img')).toHaveLength(2);
+    expect(wrapper.findAllComponents(CardItem)).toHaveLength(2);
   });
 
   it('should filter cards when searching', async () => {
@@ -28,6 +26,6 @@ describe('CardGallery', () => {
     const input = wrapper.find('input');
     await input.setValue('Raios');
 
-    expect(wrapper.findAll('img')).toHaveLength(1);
+    expect(wrapper.findAllComponents(CardItem)).toHaveLength(1);
   });
 });

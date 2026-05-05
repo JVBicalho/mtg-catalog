@@ -54,7 +54,7 @@ const handleImageError = () => {
 </script>
 
 <template>
-  <div class="group relative overflow-hidden rounded-xl bg-gray-900 transition-all hover:scale-105 hover:shadow-2xl hover:shadow-indigo-500/20">
+  <div class="group relative overflow-hidden rounded-xl bg-gray-900 transition-all hover:scale-105 hover:shadow-2xl hover:shadow-red-600/20">
     <!-- Card Image -->
     <img 
       :src="scryfallUrl" 
@@ -68,14 +68,14 @@ const handleImageError = () => {
     <div class="absolute inset-0 flex flex-col justify-between p-3 opacity-0 transition-opacity group-hover:opacity-100 bg-linear-to-t from-black/80 via-transparent to-transparent">
       <div class="flex justify-between items-start">
         <!-- Quantity Badge -->
-        <span class="inline-flex items-center rounded-md bg-indigo-500/90 px-2 py-1 text-xs font-bold text-white shadow-lg backdrop-blur-md">
+        <span class="inline-flex items-center rounded-md bg-red-600/90 px-2 py-1 text-xs font-bold text-white shadow-lg backdrop-blur-md">
           x{{ card.quantidade }}
         </span>
 
         <!-- Foil Badge -->
         <span 
           v-if="card.isFoil" 
-          class="badge-foil inline-flex items-center rounded-md bg-linear-to-r from-pink-500 via-purple-500 to-indigo-500 px-2 py-1 text-xs font-bold text-white shadow-lg animate-pulse"
+          class="badge-foil inline-flex items-center rounded-md bg-linear-to-r from-red-500 via-orange-500 to-yellow-500 px-2 py-1 text-xs font-bold text-white shadow-lg animate-pulse"
         >
           FOIL
         </span>
@@ -103,7 +103,7 @@ const handleImageError = () => {
        <span class="rounded bg-black/60 px-1.5 py-0.5 text-[10px] font-bold text-white backdrop-blur-sm">
          x{{ card.quantidade }}
        </span>
-       <span v-if="card.isFoil" class="rounded bg-linear-to-r from-pink-500 to-indigo-500 px-1.5 py-0.5 text-[10px] font-bold text-white shadow-sm">
+       <span v-if="card.isFoil" class="rounded bg-linear-to-r from-red-500 to-orange-500 px-1.5 py-0.5 text-[10px] font-bold text-white shadow-sm">
          F
        </span>
     </div>

@@ -59,31 +59,38 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-black text-white selection:bg-indigo-500/30">
+  <div class="min-h-screen bg-black text-white selection:bg-red-500/30">
     <!-- Header -->
-    <header class="relative py-16 px-4 overflow-hidden border-b border-white/5">
-      <div class="absolute inset-0 bg-linear-to-b from-indigo-500/10 to-transparent"></div>
+    <header class="relative py-12 md:py-16 px-4 overflow-hidden border-b border-white/5">
+      <div class="absolute inset-0 bg-linear-to-b from-red-600/10 to-transparent"></div>
       <div class="relative mx-auto max-w-7xl">
-        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-8">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-6 md:gap-8">
           <div class="text-center md:text-left">
-            <h1 class="text-5xl font-black tracking-tighter sm:text-7xl">
-              MTG <span class="bg-linear-to-r from-indigo-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">CATALOG</span>
+            <h1 class="text-4xl font-black tracking-tighter sm:text-7xl">
+              MTG <span class="bg-linear-to-r from-red-500 via-orange-500 to-red-600 bg-clip-text text-transparent">CATALOG</span>
             </h1>
-            <p class="mt-4 text-gray-400 text-lg font-medium max-w-xl">
+            <p class="mt-3 md:mt-4 text-gray-400 text-base md:text-lg font-medium max-w-xl mx-auto md:mx-0">
               Navegue pela minha coleção pessoal com precisão cirúrgica.
             </p>
           </div>
 
           <!-- Collection Selector -->
           <div class="w-full md:w-72">
-            <label class="block text-xs font-bold text-gray-500 uppercase tracking-widest mb-2 px-1">Selecionar Coleção</label>
-            <select 
-              v-model="selectedCollectionId" 
-              @change="loadCollection(selectedCollectionId)"
-              class="w-full bg-gray-900 border border-white/10 rounded-xl px-4 py-3 text-sm font-bold text-indigo-300 focus:ring-2 focus:ring-indigo-500 focus:outline-hidden transition-all shadow-xl appearance-none cursor-pointer"
-            >
-              <option v-for="c in collections" :key="c.id" :value="c.id">{{ c.name }}</option>
-            </select>
+            <div class="relative">
+              <label class="block text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-2 px-1 text-center md:text-left">Selecionar Coleção</label>
+              <select 
+                v-model="selectedCollectionId" 
+                @change="loadCollection(selectedCollectionId)"
+                class="w-full bg-gray-900/50 backdrop-blur-md border border-white/10 rounded-xl px-4 py-3.5 text-sm font-bold text-red-400 focus:ring-2 focus:ring-red-600 focus:outline-hidden transition-all shadow-xl appearance-none cursor-pointer text-center md:text-left"
+              >
+                <option v-for="c in collections" :key="c.id" :value="c.id">{{ c.name }}</option>
+              </select>
+              <div class="absolute right-4 bottom-4 pointer-events-none text-red-600/50 hidden md:block">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -92,7 +99,7 @@ onUnmounted(() => {
     <!-- Main Content -->
     <main class="mx-auto max-w-7xl px-4 pb-20">
       <div v-if="isLoading" class="flex flex-col items-center justify-center py-32">
-        <div class="h-12 w-12 animate-spin rounded-full border-4 border-indigo-500 border-t-transparent"></div>
+        <div class="h-12 w-12 animate-spin rounded-full border-4 border-red-600 border-t-transparent"></div>
         <p class="mt-4 text-gray-500 font-medium animate-pulse">Sintonizando os planos...</p>
       </div>
       
@@ -108,7 +115,7 @@ onUnmounted(() => {
     <button 
       @click="scrollToTop"
       :class="[
-        'fixed bottom-8 right-8 p-3 rounded-full bg-indigo-600/80 hover:bg-indigo-500 text-white shadow-lg backdrop-blur-sm transition-all duration-300 z-50',
+        'fixed bottom-8 right-8 p-3 rounded-full bg-red-700/80 hover:bg-red-600 text-white shadow-lg backdrop-blur-sm transition-all duration-300 z-50',
         showScrollTop ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0 pointer-events-none'
       ]"
       aria-label="Voltar ao topo"
