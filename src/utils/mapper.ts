@@ -82,12 +82,34 @@ const SET_MAP: Record<string, string> = {
 };
 
 /**
+ * Overrides manuais para cartas específicas que têm dificuldade de encontrar a arte correta.
+ * Chave: "Nome em Inglês|Sigla da Liga"
+ */
+const CARD_OVERRIDES: Record<string, { set?: string, number?: string }> = {
+  // Exemplo: "Arcane Signet|pr30": { set: "p30a", number: "1" },
+  "Aetherborn Marauder|otc": { number: "125" },
+  "Slinking Skirge|ud": { number: "71" },
+  "Fellwar Stone|4e": { set: "4ed", number: "319" },
+  "Red Elemental Blast|4e": { set: "4ed", number: "218" },
+  "Mogg Infestation|sh": { set: "sth", number: "93" },
+  "Goblin Bombardment|tp": { set: "tmp", number: "179" },
+};
+
+/**
  * Converte a sigla da LigaMagic para o padrão Scryfall.
  */
 export function mapSetCode(ligaSigla: string): string {
   if (!ligaSigla) return '';
   const sigla = ligaSigla.toLowerCase();
   return SET_MAP[ligaSigla] || SET_MAP[sigla] || sigla;
+}
+
+/**
+ * Retorna overrides específicos para uma carta.
+ */
+export function getCardOverride(enName: string, ligaSigla: string) {
+  const key = `${enName}|${ligaSigla.toLowerCase()}`;
+  return CARD_OVERRIDES[key] || null;
 }
 
 /**

@@ -1,6 +1,6 @@
 import Papa from 'papaparse';
 import type { CardData } from '../types';
-import { mapSetCode, sanitizeCardName } from './mapper';
+import { mapSetCode, sanitizeCardName, getCardOverride } from './mapper';
 
 import scryfallCache from '../data/scryfall-cache.json';
 
@@ -19,12 +19,16 @@ export function parseLigaMagicCSV(csvContent: string): CardData[] {
     const key = enName || ptName;
     const cacheData = (scryfallCache as Record<string, any>)[key] || { color_identity: [], type_line: '' };
 
+    // Aplica Overrides se existirem
+    const ligaSigla = (row['Edicao (Sigla)'] || '').toString().trim();
+    const override = getCardOverride(enName || ptName, ligaSigla);
+
     return {
       nomePT: ptName,
-      nomeEN: enName || ptName, // Fallback para o nome PT se o EN estiver vazio
+      nomeEN: enName || ptName,
       edicao: (row['Edicao (EN)'] || row['Edicao (PTBR)'] || '').toString().trim(),
-      setCode: mapSetCode((row['Edicao (Sigla)'] || '').toString().trim()),
-      collectorNumber: (row['Card #'] || '').toString().trim(),
+      setCode: override?.set || mapSetCode(ligaSigla),
+      collectorNumber: override?.number || (row['Card #'] || '').toString().trim(),
       quantidade: parseInt(row['Quantidade']) || 0,
       isFoil: row['Extras']?.toString().toLowerCase().includes('foil') || false,
       color_identity: cacheData.color_identity,
