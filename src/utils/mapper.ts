@@ -93,6 +93,7 @@ const CARD_OVERRIDES: Record<string, { set?: string, number?: string }> = {
   "Red Elemental Blast|4e": { set: "4ed", number: "218" },
   "Mogg Infestation|sh": { set: "sth", number: "93" },
   "Goblin Bombardment|tp": { set: "tmp", number: "179" },
+  "Manabarbse|4e": { set: "4ed", number: "212" },
 };
 
 /**
