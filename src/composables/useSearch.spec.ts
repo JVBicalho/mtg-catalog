@@ -32,19 +32,7 @@ describe('useSearch', () => {
   });
 
   it('should sort cards by custom priority order', () => {
-    const customCollection: CardData[] = [
-      { nomePT: 'Llanowar Elves', nomeEN: 'Llanowar Elves', edicao: 'M10', setCode: 'm10', collectorNumber: '1', quantidade: 1, isFoil: false },
-      { nomePT: 'Raios', nomeEN: 'Lightning Bolt', edicao: 'M10', setCode: 'm10', collectorNumber: '2', quantidade: 1, isFoil: false },
-      { nomePT: 'Ojer Axonil', nomeEN: 'Ojer Axonil, Deepest Might', edicao: 'LCI', setCode: 'lci', collectorNumber: '158', quantidade: 1, isFoil: false },
-    ];
-    
-    const { filteredCards } = useSearch(ref(customCollection));
-    
-    // Ojer Axonil deve vir primeiro (está no topo da lista do usuário)
-    // Lightning Bolt (Raios) não está na lista fornecida (ops, deixa eu conferir)
-    // Na verdade, Lightning Bolt não está na lista do usuário.
-    // Vamos usar cartas que ESTÃO na lista.
-    
+    // Vamos usar cartas que ESTÃO na lista para o teste de prioridade.
     const testCollection: CardData[] = [
       { nomePT: 'Ulamog', nomeEN: 'Ulamog, the Infinite Gyre', edicao: 'UMA', setCode: 'uma', collectorNumber: '7', quantidade: 1, isFoil: false },
       { nomePT: 'Ojer Axonil', nomeEN: 'Ojer Axonil, Deepest Might', edicao: 'LCI', setCode: 'lci', collectorNumber: '158', quantidade: 1, isFoil: false },
