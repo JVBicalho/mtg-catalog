@@ -74,9 +74,9 @@ onUnmounted(() => {
             </p>
           </div>
 
-          <!-- Collection Selector -->
-          <div class="w-full md:w-72">
-            <div class="relative">
+          <!-- Collection Selector & Download -->
+          <div class="w-full md:w-auto flex flex-col sm:flex-row items-end gap-3">
+            <div class="w-full md:w-72 relative">
               <label class="block text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-2 px-1 text-center md:text-left">Selecionar Coleção</label>
               <select 
                 v-model="selectedCollectionId" 
@@ -91,6 +91,20 @@ onUnmounted(() => {
                 </svg>
               </div>
             </div>
+
+            <a 
+              :href="`https://github.com/JVBicalho/mtg-catalog/blob/main/src/assets/data/${selectedCollectionId}.csv`"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-test="download-csv"
+              class="w-full sm:w-auto flex items-center justify-center gap-2 bg-red-600/10 hover:bg-red-600/20 border border-red-600/20 hover:border-red-600/40 text-red-400 px-5 py-3.5 rounded-xl font-bold text-xs transition-all active:scale-95 group"
+              title="Baixar CSV no GitHub"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 group-hover:animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+              </svg>
+              <span class="sm:hidden md:inline">Baixar CSV</span>
+            </a>
           </div>
         </div>
       </div>
